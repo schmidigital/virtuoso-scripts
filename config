@@ -1,0 +1,4 @@
+#!/bin/bash
+user="dba"
+pass="dba"
+port=1111

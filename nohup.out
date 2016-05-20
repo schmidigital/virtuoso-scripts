@@ -1,0 +1,88 @@
+./loader.sh: 1: ./loader.sh: source: not found
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+Done. -- 6367688 msec.
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+Done. -- 6370145 msec.
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+Done. -- 6376944 msec.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+Done. -- 5044875 msec.
+./loader.sh: 1: ./loader.sh: source: not found
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+*** Error 08S01: [Virtuoso Driver]CL065: Lost connection to server
+at line 0 of Top-Level:
+rdf_loader_run()
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+*** Error 08S01: [Virtuoso Driver]CL065: Lost connection to server
+at line 0 of Top-Level:
+rdf_loader_run()
+
+*** Error 08S01: [Virtuoso Driver]CL065: Lost connection to server
+at line 0 of Top-Level:
+rdf_loader_run()
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+
+*** Error S2801: [Virtuoso Driver]CL033: Connect failed to localhost:1111 = localhost:1111.
+at line 0 of Top-Level:
+checkpoint
+./loader.sh: 1: ./loader.sh: source: not found
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+./loader.sh: 1: ./loader.sh: source: not found
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+Done. -- 5710650 msec.
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+Done. -- 5713779 msec.
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+Done. -- 5717386 msec.
+OpenLink Interactive SQL (Virtuoso), version 0.9849b.
+Type HELP; for help and EXIT; to exit.
+Connected to OpenLink Virtuoso
+Driver: 07.00.3203 OpenLink Virtuoso ODBC Driver
+
+Done. -- 267293 msec.
